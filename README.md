@@ -44,4 +44,4 @@ Thanks for stopping by!
 
 ---
 
-_Built with by Thierry Bwuzure - Future Frontend Developer_
+_Built by Thierry Bwuzure - Frontend Developer_
