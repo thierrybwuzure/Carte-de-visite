@@ -17,7 +17,7 @@ This little web portfolio includes:
 
 ## The Story Behind It
 
-I'm currently studying frontend development at EFP (that's a school in Belgium, pretty cool place!), and I built this as part of my journey to become a solid frontend developer. I'm actively looking for an internship to put all this learning into practice - so if you know someone who needs a motivated developer, send them my way! 😉
+I'm currently studying frontend development at EFP (that's a school in Belgium, pretty cool place!), and I built this as part of my journey to become a solid frontend developer. I'm actively looking for an internship to put all this learning into practice.
 
 ## Tech Stack (Keep It Simple!)
 
