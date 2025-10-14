@@ -236,9 +236,7 @@ button:hover {
     transition-duration: 0.5s;
 }
 
-/* ========================================
-   RESPONSIVE DESIGN - MEDIA QUERIES
-   ======================================== */
+/* RESPONSIVE DESIGN - MEDIA QUERIES */
 
 /* 📱 MOBILE PHONES (up to 768px width) */
 @media screen and (max-width: 768px) {
