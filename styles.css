@@ -27,7 +27,7 @@ body {
     font-family: 'Poppins', sans-serif;
     text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
     text-align: justify;
-    margin: 0 auto;
+    margin: 10vh auto;
 }
 
 /* Navigation Bar */
@@ -194,7 +194,7 @@ form {
     width: 35vw;
     display: flex;
     flex-direction: column;
-    margin: 20px auto 100px auto;
+    margin: 20px auto 25px;
     padding: 15px;
     border-radius: 5px;
     background-color: rgb(20, 78, 128, 0.5);
@@ -412,7 +412,7 @@ button:hover {
     body {
         max-width: 1200px;
         /* Maximum width so it doesn't stretch too much */
-        width: 50%;
+        width: 55%;
         /* Keep current width */
     }
 
